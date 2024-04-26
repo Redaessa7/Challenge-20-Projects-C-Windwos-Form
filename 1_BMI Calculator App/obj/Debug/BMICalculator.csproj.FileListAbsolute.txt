@@ -1,0 +1,30 @@
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\bin\Debug\BMICalculator.exe.config
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\bin\Debug\BMICalculator.exe
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\bin\Debug\BMICalculator.pdb
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\bin\Debug\Guna.UI2.dll
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.csproj.CopyComplete
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.exe
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.pdb
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.MainScreen.resources
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\obj\Debug\BMICalculator.Screens.ResultScreen.resources
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\bin\Debug\Newtonsoft.Json.dll
+D:\C#ProjectsApp\1_BMI Calculator App\BMICalculator\bin\Debug\Newtonsoft.Json.xml
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\bin\Debug\BMICalculator.exe.config
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\bin\Debug\BMICalculator.exe
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\bin\Debug\BMICalculator.pdb
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\bin\Debug\Guna.UI2.dll
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\bin\Debug\Newtonsoft.Json.dll
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\bin\Debug\Newtonsoft.Json.xml
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.MainScreen.resources
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.Properties.Resources.resources
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.Screens.ResultScreen.resources
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.csproj.CopyComplete
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.exe
+D:\C#ProjectsApp\Challenge_20Projects C# Windwos Form\1_BMI Calculator\obj\Debug\BMICalculator.pdb

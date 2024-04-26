@@ -1,0 +1,32 @@
+[
+    {
+        "Category": "Underweight",
+        "BMI": "< 18.5",
+        "Description": "This classification indicates that the individual is significantly underweight, which may suggest potential health issues such as malnutrition or eating disorders."
+    },
+    {
+        "Category": "Normal weight",
+        "BMI": "18.5 - 24.9",
+        "Description": "This classification is considered ideal, indicating that the individual has a healthy weight within the normal range for their height."
+    },
+    {
+        "Category": "Overweight",
+        "BMI": "25 - 29.9",
+        "Description": "This classification indicates a slight excess weight, and the individual may be at risk of certain health problems such as high blood pressure and high cholesterol levels."
+    },
+    {
+        "Category": "Obesity Class I",
+        "BMI": "30 - 34.9",
+        "Description": "This classification indicates moderate obesity, which may increase the individual's risk of developing serious health problems such as diabetes and heart disease."
+    },
+    {
+        "Category": "Obesity Class II",
+        "BMI": "35 - 39.9",
+        "Description": "This classification indicates severe obesity, which is associated with a significantly increased risk of serious health conditions such as heart disease and stroke."
+    },
+    {
+        "Category": "Obesity Class III (Morbid Obesity)",
+        "BMI": "40 or above",
+        "Description": "This classification indicates morbid obesity, a serious condition that greatly increases the risk of life-threatening conditions such as type 2 diabetes, high blood pressure, heart disease, and stroke."
+    }
+]
